@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/wstud-argument-search-engine-framework-ss17/src/de/webis/args/framework/querying/GenericQueryGenerator.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="de.webis.args.framework.querying.GenericQueryGenerator"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="wstud-argument-search-engine-framework-ss17"/>
+</launchConfiguration>

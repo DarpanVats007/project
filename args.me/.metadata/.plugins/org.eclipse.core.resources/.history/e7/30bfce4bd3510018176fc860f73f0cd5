@@ -1,0 +1,5 @@
+package de.webis.args.framework.querying;
+
+public class SpellChecker {
+
+}

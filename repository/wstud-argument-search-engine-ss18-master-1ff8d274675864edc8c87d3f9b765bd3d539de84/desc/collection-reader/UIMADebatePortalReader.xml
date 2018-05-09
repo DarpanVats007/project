@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>  <annotatorImplementationName>org.apache.uima.collection.UIMADebatePortalReader</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>UIMADebatePortalReader</name>
+    <description>Reads all texts from a given collection of plain text files (with suffix "txt") and inserts the text into a UIMA CAS object. 
+
+The text files are taken from a specified directory and all its subdirectories.</description>
+    <version>1.0</version>
+    <vendor>args</vendor>
+    <configurationParameters/>
+    <configurationParameterSettings/>
+    <typeSystemDescription/>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs/>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+  <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>
